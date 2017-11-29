@@ -4,4 +4,4 @@ Pig Latin script to perform sentimental analysis on the news headline, classifyi
 
 Dataset for the ABC new headline can be found here https://www.kaggle.com/therohk/million-headlines
 
-Files for positive and negative words are uploaded in the repository.
+Files for positive and negative words are uploaded.
